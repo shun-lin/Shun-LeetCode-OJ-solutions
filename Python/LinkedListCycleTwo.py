@@ -4,6 +4,8 @@
 #         self.val = x
 #         self.next = None
 
+# This has the runtime of O(n)
+
 class Solution(object):
     def detectCycle(self, head):
         """
