@@ -4,6 +4,8 @@
 #         self.val = x
 #         self.next = None
 
+# this solution has runtime of O(n)
+
 class Solution(object):
     def hasCycle(self, head):
         """
