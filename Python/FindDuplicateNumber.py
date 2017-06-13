@@ -1,3 +1,5 @@
+# This code has run time of O(n) and space usage of O(1)
+
 class Solution(object):
     def findDuplicate(self, nums):
         """
